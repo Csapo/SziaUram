@@ -1,0 +1,19 @@
+img
+{
+    width: 100%;
+    
+}
+div.col-md-4
+{
+    border: 5px outset;
+}
+.img-thumbnail{
+    border: 5px outset;
+}
+.navbar-brand{
+    width: 100px
+}
+h1,h2,p, li{
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
